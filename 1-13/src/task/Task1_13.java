@@ -36,8 +36,6 @@ public class Task1_13 {
 	        	        strArray4.add("o");   
 	        	        }
 	        	   }
-	        	 System.out.println(strArray2);
-	        	 System.out.println(strArray3);
 	        	 System.out.println(strArray4);
 	        	   
 	        	   
